@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-blog-b9c7b": {
+      "hosting": {
+        "ng-blog": [
+          "ng-blog-b9c7b"
+        ]
+      }
+    }
+  }
+}
